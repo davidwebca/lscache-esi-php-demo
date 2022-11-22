@@ -1,0 +1,4 @@
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+</IfModule>
